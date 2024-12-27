@@ -1,0 +1,17 @@
+
+body { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.block_one { 
+
+    background-color: blue;
+}
+
+.block_two {
+
+    background-color: red;
+}
